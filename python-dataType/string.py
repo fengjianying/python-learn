@@ -1,3 +1,4 @@
+###字符串
 message = "Hello Python world!"
 print(message)
 name = "li ming"

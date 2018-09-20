@@ -23,4 +23,6 @@ print(type(str(age)));
 int(age);
 print(type(int(str(age))));
 #string和number数据转换
-
+txt = '2'
+int(txt);
+str(txt);
